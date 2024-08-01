@@ -21,7 +21,7 @@ You only need a web browser to run this project.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/simple-web-calculator.git
+    git clone https://github.com/xonersagar/web-devlopment-project-CALCULATOR-
     ```
 
 2. Navigate to the project directory:

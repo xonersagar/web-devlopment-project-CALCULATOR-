@@ -1,3 +1,5 @@
+![Screenshot 2024-08-05 at 9 16 49 PM](https://github.com/user-attachments/assets/371599f1-f788-42f6-a33c-3ce9b3015489)
+![Screenshot 2024-08-05 at 9 16 49 PM](https://github.com/user-attachments/assets/8e8b5c8f-eafa-4b42-992f-48d09ffdbaa6)
 # 🧮 Simple Web Calculator
 ![Calculator Screenshot](/Users/sagarkumarmahto/Desktop/Screenshot 2024-08-01 at 6.03.29 PM)
 
@@ -41,7 +43,6 @@ You only need a web browser to run this project.
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
 ## 👨‍💻 About Me
-
 - 👋 Hi, I’m @xonersagar
 - 🌟 I’m passionate about web development, Java programming, and software engineering.
 - 🎓 I’m currently in my 3rd year of B.Tech, specializing in web and Java development.
@@ -50,4 +51,8 @@ Contributions are welcome! Please fork the repository and create a pull request 
 - 🙋‍♂️ Pronouns: He/Him
 - 🚀 Unique fact: I developed a fully functional e-commerce website as part of a college project using Java and React.
 
-I'm dedicated to continuously improving my skills and staying up-to-date with the latest industry trends. In my spare time, I enjoy experimenting with new web technologies and frameworks to create innovative solutions.
+I'm dedicated to continuously improving my skills and staying up-to-date with the latest industry trends. In my spare time, I enjoy experimenting with new web 
+
+![Screenshot 2024-08-05 at 9 16 49 PM](https://github.com/user-attachments/assets/3d4324db-e3be-462e-a7b7-ee00d3115735)
+
+technologies and frameworks to create innovative solutions.

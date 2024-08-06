@@ -1,5 +1,3 @@
-![Screenshot 2024-08-05 at 9 16 49 PM](https://github.com/user-attachments/assets/371599f1-f788-42f6-a33c-3ce9b3015489)
-![Screenshot 2024-08-05 at 9 16 49 PM](https://github.com/user-attachments/assets/8e8b5c8f-eafa-4b42-992f-48d09ffdbaa6)
 # 🧮 Simple Web Calculator
 ![Calculator Screenshot](/Users/sagarkumarmahto/Desktop/Screenshot 2024-08-01 at 6.03.29 PM)
 
